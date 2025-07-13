@@ -1,4 +1,4 @@
-# 💽 CrystalDiskMark Pro – SSD & HDD Benchmark Tool for PC ⚡📊
+# 💽 CrystalDiskMark – SSD & HDD Benchmark Tool for PC ⚡📊
 
 Measure your storage performance with **CrystalDiskMark Pro**, a leading disk benchmark utility for PC. Get precise read and write speed results for SSDs, HDDs, USB drives, and NVMe storage.
 
